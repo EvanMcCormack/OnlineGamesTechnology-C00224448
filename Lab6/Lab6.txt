@@ -1,0 +1,16 @@
+Q1: C. 435
+Q2: Y
+Q3: 4. Whether it increases the timeout depends on the deviation
+Q4: new smoothRTT = (1-0.125) * 100 + 0.125 * 108 = 101ms
+      new devRTT: (1-0.25)*8+0.25*(108-101)=7.75ms
+       timeout=101+4*7.75=132ms
+Q5: C.Flow Control
+Q6: B.1.5RTT
+Q7: A.Per-byte sequence and ack numbers
+Q8: T
+Q9: HTTP
+       TFTP
+       FTP
+Q10: C.0.8s
+Q11: C.4s
+Q12: B.40pkts/s
