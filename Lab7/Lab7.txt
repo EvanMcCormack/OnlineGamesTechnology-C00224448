@@ -1,0 +1,15 @@
+Q1: T
+Q2: F
+Q3: T
+Q4: F
+Q5: (a) Triple Duplicate Ack
+Q6: (b) No
+Q7: (d) Time Out
+Q8: (b) No
+Q9: (b) Less
+Q10: The slow start period quickly discovers the maximum acceptable throughout that the path supports. Otherwise, additive increase could take too long.
+Q11: 
+Q12: (c) 400ms
+Q13: (c)1200ms
+Q14: (b)600ms
+Q15: Changing cross-traffic by other concurrent senders across same routers
